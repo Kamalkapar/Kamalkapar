@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kamal kapar
+- 👀 I’m interested in project for web developing and graphics design.
+- 🌱 I’m currently learning web development and python as well .
